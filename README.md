@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ihssane Aziz! 👋
 
-<!--
-**ihssaane/ihssaane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate 4th year Computer Science student with a keen interest in DevOps practices and technologies. I'm on a journey to bridge the gap between development and operations, creating efficient, scalable, and reliable software systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 4th year Computer Science student
+- 🔧 Aspiring DevOps Engineer
+- 🌱 Constantly learning and exploring new technologies in the DevOps ecosystem
+- 🤝 Looking to collaborate on projects that improve software delivery pipelines
+
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,ansible,terraform,git,python)](https://skillicons.dev)
+
+## 🔍 Currently Exploring
+
+- 📊 Monitoring and observability tools (Prometheus, Grafana)
+- 🔄 Continuous Integration and Continuous Deployment (CI/CD) pipelines
+- ☁️ Cloud-native technologies and microservices architecture
+
+
+
+
+## 📬 Get in Touch
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ihssane-aziz-278326286/)
+
+I'm always excited to discuss DevOps practices, automation, and cloud technologies. Let's connect and build robust, scalable systems together! 🚀
