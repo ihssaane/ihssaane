@@ -13,9 +13,8 @@ I'm a passionate 4th year Computer Science student with a keen interest in DevOp
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,ansible,terraform,git,python)](https://skillicons.dev)
 
-## 🔍 Currently Exploring
+## 🔍 Currently Learning
 
-- 📊 Monitoring and observability tools (Prometheus, Grafana)
 - 🔄 Continuous Integration and Continuous Deployment (CI/CD) pipelines
 - ☁️ Cloud-native technologies and microservices architecture
 
