@@ -9,18 +9,6 @@ I'm a passionate 4th year Computer Science student with a keen interest in DevOp
 - 🌱 Constantly learning and exploring new technologies in the DevOps ecosystem
 - 🤝 Looking to collaborate on projects that improve software delivery pipelines
 
-## 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,ansible,terraform,git,python)](https://skillicons.dev)
-
-## 🔍 Currently Learning
-
-- 🔄 Continuous Integration and Continuous Deployment (CI/CD) pipelines
-- ☁️ Cloud-native technologies and microservices architecture
-
-
-
-
 ## 📬 Get in Touch
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ihssane-aziz-278326286/)
