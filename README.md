@@ -2,7 +2,7 @@
 
 I'm a passionate 4th year Computer Science student with a keen interest in Java, DevOps practices and technologies. I'm on a journey to bridge the gap between development and operations, creating efficient, scalable, and reliable software systems.
 
-                   ![Hinata GIF](https://github.com/ihssaane/ihssaane/blob/main/hinata.webp)
+   ![Hinata GIF](https://github.com/ihssaane/ihssaane/blob/main/hinata.webp)
 
 ## 🚀 About Me
 
