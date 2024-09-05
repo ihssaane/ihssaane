@@ -1,6 +1,8 @@
 # Hi, I'm Ihssane Aziz! 👋
 
 I'm a passionate 4th year Computer Science student with a keen interest in Java, DevOps practices and technologies. 
+
+
    ![Hinata GIF](https://github.com/ihssaane/ihssaane/blob/main/hinata.webp)
 
 ## 🚀 About Me
