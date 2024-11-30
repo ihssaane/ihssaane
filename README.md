@@ -1,6 +1,6 @@
 # Hi there! I'm Ihssane Aziz 👋🏽💻
 
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Ihssane%20Aziz&fontSize=70&animation=fadeIn)
+![Hinata Anime GIF](https://github.com/ihssaane/ihssaane/blob/main/hinata.webp)
 
 ## 🚀 About Me
 
