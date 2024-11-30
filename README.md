@@ -1,6 +1,8 @@
 # Hi there! I'm Ihssane Aziz 👋🏽💻
 
-![Hinata Anime GIF](https://github.com/ihssaane/ihssaane/blob/main/hinata.webp)
+<div align="center">
+    <img src="https://github.com/ihssaane/ihssaane/blob/main/hinata.webp" alt="Hinata Anime GIF" width="800" height="400" style="object-fit: cover;"/>
+</div>
 
 ## 🚀 About Me
 
