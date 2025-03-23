@@ -1,8 +1,6 @@
 # Hi there! I'm Ihssane Aziz 👋🏽💻
 
-<div align="center">
-    <img src="https://github.com/ihssaane/ihssaane/blob/main/hinata.webp" alt="Hinata Anime GIF" width="800" height="400" style="object-fit: cover;"/>
-</div>
+
 
 ## 🚀 About Me
 
@@ -14,18 +12,7 @@ I'm a fourth-year Computer Science student on an exciting journey through the wo
 - **Cloud Technologies**: Exploring the infinite possibilities of cloud computing
 - **Learning Mantra**: "Every day is a school day in tech!" 📚
 
-## 💡 Technical Toolkit
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌱 Currently Exploring
-- Advanced Microservices Architecture
-- Cloud-Native Development Practices
-- DevOps Automation Strategies
 
 ## 📊 GitHub Stats
 ![Ihssane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihssaane&show_icons=true&theme=radical)
