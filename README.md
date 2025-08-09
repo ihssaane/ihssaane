@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a fourth-year Computer Science student on an exciting journey through the world of technology, passionate about transforming lines of code into innovative solutions! 
+I'm a 5-year Computer Science student on an exciting journey through the world of technology, passionate about transforming lines of code into innovative solutions! 
 
 ### 🔍 My Tech Compass
 - **Languages**: Java is my primary playground 🍵
